@@ -20,8 +20,14 @@
   },
   "homepage": "https://github.com/anbuanand-github/app-react-express#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "concurrently": "^7.0.0",
+    "dotenv": "^16.0.0",
     "express": "^4.17.3",
-    "nodemon": "^2.0.15"
+    "express-validator": "^6.14.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.7",
+    "nodemon": "^2.0.15",
+    "redux-thunk": "^2.4.1"
   }
 }
