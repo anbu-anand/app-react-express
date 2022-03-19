@@ -1,1 +1,1 @@
-export { Page } from './Page.Container';
+export { Page } from './Page.SBC';
